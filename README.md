@@ -2,8 +2,8 @@
 
 Full-Stack Blockchain Developer with relevant experience and a proven track record of success in achieving extraordinary results. <br/>
 - Strong skills in developing/auditing complex smart contracts <br/>
-- Developed and launched lots of successful NFTs and DeFi Ecosystems on several chains including Ethereum, Binance Smart Chain , Polygon and Avalanche. <br/>
-- Launched and maintained many new crytocurrency blockchains and wallet apps for Desktop/Mobile/Web platforms <br/>
+- Developed and launched lots of successful NFTs and Defi Ecosystems on several chains including Ethereum, Binance Smart Chain, Polygon, and Avalanche.<br/>
+- Launched and maintained many new cryptocurrency blockchains and wallet apps for Desktop/Mobile/Web platforms <br/>
 
 ### 📫 How to reach me: ...
 
@@ -12,7 +12,7 @@ Profile: <a href="https://bounyavong.nuanchansoft.llc/" target="_blank">https://
 Email: <a href="mailto:alonewolf2ksk@gmail.com" target="_blank">alonewolf2ksk@gmail.com</a><br/>
 Phone number: +856(209)543-7904 (Whatsapp, Telegram, PhoneCall) <br/>
 
-In my github, I needed to publish only a few projects.<br/>
-Most of the important and successful sources are privates because I signed NDAs with my previous clients.<br/>
-If you interested in those, you can contact me at any time you wish.<br/>
+In my GitHub, I needed to publish only a few projects.<br/>
+Most of the important and successful sources are private because I signed NDAs with my previous clients.<br/>
+If you're interested in those, you can contact me at any time you wish.<br/>
 <br/>
