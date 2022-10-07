@@ -1,16 +1,18 @@
-### Hi there 👋
+### Full-Stack Blockchain Developer 👋
 
-<!--
-**Alonewolf-123/Alonewolf-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Blockchain Developer with relevant experience and a proven track record of success in achieving extraordinary results. <br/>
+- Strong skills in developing/auditing complex smart contracts <br/>
+- Developed and launched lots of successful NFTs and DeFi Ecosystems on several chains including Ethereum, Binance Smart Chain , Polygon and Avalanche. <br/>
+- Launched and maintained many new crytocurrency blockchains and wallet apps for Desktop/Mobile/Web platforms <br/>
 
-Here are some ideas to get you started:
+### 📫 How to reach me: ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: <a href="https://www.linkedin.com/in/nikone-bounyavong-5286a215b" target="_blank">https://www.linkedin.com/in/nikone-bounyavong-5286a215b</a><br/>
+Profile: <a href="https://bounyavong.nuanchansoft.llc/" target="_blank">https://bounyavong.nuanchansoft.llc/</a><br/>
+Email: <a href="mailto:alonewolf2ksk@gmail.com" target="_blank">alonewolf2ksk@gmail.com</a><br/>
+Phone number: +856(209)543-7904 ~Whatsapp~Telegram~PhoneCall~ <br/>
+
+In my github, I needed to publish only a few projects.<br/>
+Most of the important and successful sources are privates because I signed NDAs with my previous clients.<br/>
+If you interested in those, you can contact me at any time you wish.<br/>
+<br/>
