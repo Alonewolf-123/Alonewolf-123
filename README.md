@@ -8,7 +8,7 @@ Full-Stack Blockchain Developer with relevant experience and a proven track reco
 ### 📫 How to reach me: ...
 
 LinkedIn: <a href="https://www.linkedin.com/in/nikone-bounyavong-5286a215b" target="_blank">https://www.linkedin.com/in/nikone-bounyavong-5286a215b</a><br/>
-Profile: <a href="https://bounyavong.nuanchansoft.llc/" target="_blank">https://bounyavong.pengolincoin.xyz/</a><br/>
+Profile: <a href="https://nikone-bounyavong.pengolincoin.xyz/" target="_blank">https://nikone-bounyavong.pengolincoin.xyz/</a><br/>
 Email: <a href="mailto:alonewolf2ksk@gmail.com" target="_blank">alonewolf2ksk@gmail.com</a><br/>
 Phone number: +856(209)543-7904 (Whatsapp, Telegram, PhoneCall) <br/>
 
